@@ -10,8 +10,8 @@ A list of papers on Active Learning and Uncertainty Estimation for Neural Networ
 - **Cost-Effective Active Learning for Deep Image Classification** (TCSVT - 2016), Keze Wang et al. [[arxiv]](https://arxiv.org/abs/1701.03551)
 - **Localization-Aware Active Learning for Object Detection** (ACCV 2018), Chieh-Chi Kao et al. [[arxiv]](https://arxiv.org/abs/1801.05124)
 - **Deep Active Learning for Video-based Person Re-identification**, Menglin Wang et al. [[arxiv]](https://arxiv.org/abs/1812.05785)
-- **Deep Active Learning for Efficient Training of a LiDAR 3D Object Detector**, (30th IEEE Intelligent Vehicles Symposium) Di Feng et al. [[arxiv]](https://arxiv.org/abs/1901.10609)
-- **Weight Uncertainty in Neural Networks**, (ICML 2015), Charles Blundell et al. [[arxiv]](https://arxiv.org/abs/1505.05424).
+- **Deep Active Learning for Efficient Training of a LiDAR 3D Object Detector** (30th IEEE Intelligent Vehicles Symposium) Di Feng et al. [[arxiv]](https://arxiv.org/abs/1901.10609)
+- **Weight Uncertainty in Neural Networks** (ICML 2015), Charles Blundell et al. [[arxiv]](https://arxiv.org/abs/1505.05424).
 - **What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?** (NIPS 2017), Alex Kendall, Yarin Gal. [[arxiv]](https://arxiv.org/abs/1703.04977).
 - **Learning Loss for Active Learning** (CVPR 2019), Donggeun Yoo, In So Kweon. [[arxiv]](https://arxiv.org/abs/1905.03677v1)
 - **Bayesian Generative Active Deep Learning** (ICML 2019), Toan Tran et al. [[arxiv]](https://arxiv.org/abs/1904.11643v1)
