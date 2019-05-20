@@ -13,3 +13,12 @@ A list of papers on Active Learning and Uncertainty Estimation for Neural Networ
 - **Deep Active Learning for Efficient Training of a LiDAR 3D Object Detector**, (30th IEEE Intelligent Vehicles Symposium) Di Feng et al. [[arxiv]](https://arxiv.org/abs/1901.10609)
 - **Weight Uncertainty in Neural Networks**, (ICML 2015), Charles Blundell et al. [[arxiv]](https://arxiv.org/abs/1505.05424).
 - **What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?** (NIPS 2017), Alex Kendall, Yarin Gal. [[arxiv]](https://arxiv.org/abs/1703.04977).
+- **Learning Loss for Active Learning** (CVPR 2019), Donggeun Yoo, In So Kweon. [[arxiv]](https://arxiv.org/abs/1905.03677v1)
+- **Bayesian Generative Active Deep Learning** (ICML 2019), Toan Tran et al. [[arxiv]](https://arxiv.org/abs/1904.11643v1)
+- **Active Learning for Visual Question Answering: An Empirical Study**, Xiao Lin, Devi Parikh. [[arxiv]](https://arxiv.org/abs/1711.01732)
+- **Understanding Black-box Predictions via Influence Functions** (ICML 2017), Pang Wei Koh, Percy Liang. [[arxiv]](https://arxiv.org/abs/1703.04730)
+- **On the Relationship between Data Efficiency and Error for Uncertainty Sampling**, Stephen Mussmann, Percy Liang. [[arxiv]](https://arxiv.org/abs/1806.06123)
+- **Active Learning Literature Survey** (2010), Burr Settles. [[link]](http://burrsettles.com/pub/settles.activelearning.pdf)
+- **Dataset Culling: Towards Efficient Training Of Distillation-Based Domain Specific Models** (IEEE ICIP 2019), Kentaro Yoshioka et al. [[arxiv]](https://arxiv.org/abs/1902.00173)
+- **Introducing Geometry in Active Learning for Image Segmentation**, Ksenia Konyushkova et al. [[arxiv]](https://arxiv.org/abs/1508.04955)
+- **Towards Human-Machine Cooperation: Self-supervised Sample Mining for Object Detection** (CVPR 2018), Keze Wang et al. [[arxiv]](https://arxiv.org/abs/1803.09867)
