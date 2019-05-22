@@ -22,3 +22,5 @@ A list of papers on Active Learning and Uncertainty Estimation for Neural Networ
 - **Dataset Culling: Towards Efficient Training Of Distillation-Based Domain Specific Models** (IEEE ICIP 2019), Kentaro Yoshioka et al. [[arxiv]](https://arxiv.org/abs/1902.00173)
 - **Introducing Geometry in Active Learning for Image Segmentation**, Ksenia Konyushkova et al. [[arxiv]](https://arxiv.org/abs/1508.04955)
 - **Towards Human-Machine Cooperation: Self-supervised Sample Mining for Object Detection** (CVPR 2018), Keze Wang et al. [[arxiv]](https://arxiv.org/abs/1803.09867)
+- **BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep Object Detectors**, Ali Harakeh et al. [[arxiv]](https://arxiv.org/abs/1903.03838v1)
+- **Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding** (BMVC 2017), Alex Kendall et al. [[arxiv]](https://arxiv.org/abs/1511.02680)
