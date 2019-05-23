@@ -24,3 +24,4 @@ A list of papers on Active Learning and Uncertainty Estimation for Neural Networ
 - **Towards Human-Machine Cooperation: Self-supervised Sample Mining for Object Detection** (CVPR 2018), Keze Wang et al. [[arxiv]](https://arxiv.org/abs/1803.09867)
 - **BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep Object Detectors**, Ali Harakeh et al. [[arxiv]](https://arxiv.org/abs/1903.03838v1)
 - **Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding** (BMVC 2017), Alex Kendall et al. [[arxiv]](https://arxiv.org/abs/1511.02680)
+- **Variational Adversarial Active Learning**, Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. [[arxiv]](https://arxiv.org/abs/1904.00370)
