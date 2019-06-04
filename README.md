@@ -26,3 +26,4 @@ A list of papers on Active Learning and Uncertainty Estimation for Neural Networ
 - **Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding** (BMVC 2017), Alex Kendall et al. [[arxiv]](https://arxiv.org/abs/1511.02680)
 - **Variational Adversarial Active Learning**, Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. [[arxiv]](https://arxiv.org/abs/1904.00370)
 - **Uncertainty Estimation in One-Stage Object Detection**, Florian Kraus, Klaus Dietmayer. [[arxiv]](https://arxiv.org/abs/1905.10296v1)
+- **Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections**, Raanan Y. Rohekar et al. [[arxiv]](https://arxiv.org/abs/1905.13195)
