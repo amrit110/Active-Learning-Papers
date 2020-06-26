@@ -27,3 +27,4 @@ A list of papers on Active Learning and Uncertainty Estimation for Neural Networ
 - **Variational Adversarial Active Learning**, Samarth Sinha, Sayna Ebrahimi, Trevor Darrell. [[arxiv]](https://arxiv.org/abs/1904.00370)
 - **Uncertainty Estimation in One-Stage Object Detection**, Florian Kraus, Klaus Dietmayer. [[arxiv]](https://arxiv.org/abs/1905.10296v1)
 - **Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections**, Raanan Y. Rohekar et al. [[arxiv]](https://arxiv.org/abs/1905.13195)
+- **Scalable Active Learning for Object Detection**, Elmar Haussmann, Michele Fenzi et al. [[arxiv]](https://arxiv.org/pdf/2004.04699.pdf)
